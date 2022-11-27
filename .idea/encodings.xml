@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/exp11/test2/Example9_5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp11/test2/WindowBoxLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp11/test3/Example9_8.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp11/test3/Example9_8ComputerListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp11/test3/Example9_8WindowOperation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp11/test4/Example10_13.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp11/test5/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp12/test1/Example9_2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp12/test1/WindowMenu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp12/test2/ComponentInWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp12/test2/Example9_3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp12/test3/Teacher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp12/test3/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp12/test4/CalendarBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test1/Example9_9.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test1/TextListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test1/WindowDocument.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test2/GUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test3/Test3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test3/Triangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test3/WindowTriangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test4/Computer2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test4/ComputerFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test4/Lader2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test4/Test2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp13/test4/Window.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp14/test3/Test3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp2/test1/test1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exp2/test4/E.java" charset="GBK" />
+  </component>
+</project>
